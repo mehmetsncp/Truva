@@ -1,0 +1,8 @@
+echo "# Truva" >> README.md 
+git init 
+git ekle README.md 
+git commit -m "ilk commit" 
+git şube -M ana 
+git uzaktan kaynak ekle https://github.com/mehmetsncp/Truva.git
+ git itme - sen asıl ana
+                
